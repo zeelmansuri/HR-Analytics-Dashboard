@@ -1,0 +1,15 @@
+-->  What does the dashboard includes ?
+1. Total number of employees
+2. Attrition count
+3. Active Employees
+4. Attrition Rate
+5. Average Age of employee
+
+--> Visuals Include ...
+1. Donut chart to classify gender
+2. Bar chart that represents Education wise Attrition
+3. Pie chart that represent Department wise Attrition
+4. Column chart having Age groups
+5. Funnel showing Marital Status of employees
+6. Heat Map showing Different Job Roles as per Attrition
+7. Slicer to have a dynamic effect
